@@ -70,7 +70,7 @@ The Tableau dashboard highlights:
 
 Below is a preview of the Tableau dashboard created as part of this project:
 
-![Tableau Dashboard Preview](Dashboard.png)
+![Tableau Dashboard Preview](Dashboard .png)
 
    
 
